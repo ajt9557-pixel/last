@@ -17,5 +17,5 @@ function goNext() {
   localStorage.setItem("name", name);
 
  
-  window.location.href = "index.html"; 
+  window.location.href = "temp.html"; 
 }
